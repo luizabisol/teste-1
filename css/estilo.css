@@ -1,3 +1,8 @@
 body{
     font-size: 22px;
+    line-height: 2rem;
+}
+h1{
+    color: bisque;
+    border-radius: 5rem;
 }
